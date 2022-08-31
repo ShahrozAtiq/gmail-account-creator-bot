@@ -7,6 +7,7 @@ This Python bot uses the BrowserStack free APIs to automate the creation of Gmai
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -47,6 +48,9 @@ To run the bot, follow these steps:
 5. Run the following command to start the bot:
 
     `python main.py`
+
+## Demo
+<img src="https://raw.githubusercontent.com/ShahrozAtiq/gmail-account-creator-bot/master/demo.gif?token=GHSAT0AAAAAACB6OJRXPF5CO6MV5QQBPVJAZCOVLYA" />
 
 
 ## Contributing
