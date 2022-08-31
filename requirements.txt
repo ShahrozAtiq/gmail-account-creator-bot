@@ -1,0 +1,4 @@
+selenium
+appium
+gspread
+oauth2client
